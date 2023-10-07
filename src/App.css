@@ -67,6 +67,10 @@
   gap: 5px;
 }
 
+.nav-link img {
+  width: 59px;
+}
+
 .Formulario {
   width: 100%;
   display: flex;

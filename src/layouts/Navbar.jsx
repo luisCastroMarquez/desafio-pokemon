@@ -10,6 +10,7 @@ const NavbarFlow = () => {
         <Container>
           <div className="cont-2">
             <Nav.Link as={Link} to="/">
+              <img src="/src/assets/img/img3.png" alt="poke ubicacion" />
               Poke ubicación
             </Nav.Link>
           </div>
