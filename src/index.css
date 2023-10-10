@@ -42,7 +42,7 @@ h1 {
 
 p {
   font-family: Helvetica, sans-serif;
-  font-size: 40px;
+  font-size: 50px;
   margin-block: 10px;
 }
 
@@ -54,7 +54,6 @@ h4 {
 
 img {
   width: 220px;
-  margin: 15px;
 }
 
 button {
